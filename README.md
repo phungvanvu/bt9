@@ -1,9 +1,9 @@
 
-## Thông Tin Cá Nhân
+## Bài Tập 9
 - **Họ và Tên**: [Phùng Văn Vũ]
 - **Mã SV**: [BIT220171]
 - **Lớp**: [22IT3]
-- **Bài Tập 9**
+
 ## Hình Ảnh Chụp Màn Hình Kết Quả
 <p float="left">
     <img src="1.png" width="400" />
